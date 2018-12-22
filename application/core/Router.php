@@ -7,7 +7,7 @@
  */
 
 class Router {
-    protected $routees;
+    protected $routes;
 
     public function __construct($definitions)
     {
